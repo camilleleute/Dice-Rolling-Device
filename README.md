@@ -1,4 +1,4 @@
-# P3: Final Design Project, Dicce Rolling Device
+# P3: Final Design Project, Dice Rolling Device
 
 ## Project Behavior
 The device is a user interactive dice rolling machine that tells time. The user is able to select from one to three for how many dice they would like to roll. After rolling, an image of the face of the die, the number, and the sum of all die rolled is displayed. The real time and date is displayed on screen to keep track of how long a game lasts.
