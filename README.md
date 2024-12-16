@@ -4,14 +4,14 @@
 The device is a user interactive dice rolling machine that tells time. The user is able to select from one to three for how many dice they would like to roll. After rolling, an image of the face of the die, the number, and the sum of all die rolled is displayed. The real time and date is displayed on screen to keep track of how long a game lasts.
 
 ## System Specifications
-Microcontroller ______________________________________________________ STM32L476
-System Clock Frequency ____________________________________________________ 4Mhz
-Terminal Baud Rate __________________________________________________ 115,200kbps
-Terminal ________________________________________________________________ VT100
-Number of Dice to Roll ___________________________________________________ 1, 2, or 3
-Possible Numbers to Roll _______________________________________________ 1 through 6
-Time Display Format _____________________________________________ 12 hr HH:MM:SS
-Date Display Format ____________________________________________ year - month - date
+- Microcontroller ______________________________________________________ STM32L476
+- System Clock Frequency ____________________________________________________ 4Mhz
+- Terminal Baud Rate __________________________________________________ 115,200kbps
+- Terminal ________________________________________________________________ VT100
+- Number of Dice to Roll ___________________________________________________ 1, 2, or 3
+- Possible Numbers to Roll _______________________________________________ 1 through 6
+- Time Display Format _____________________________________________ 12 hr HH:MM:SS
+- Date Display Format ____________________________________________ year - month - date
 
 ## Software Architecture
 ### Code Overview
